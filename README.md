@@ -1,6 +1,6 @@
 # Grafos2 - Problemas Juiz Online
 
-**Número da Lista**: 2<br>
+**Número da Lista**: 4<br>
 **Conteúdo da Disciplina**: Grafos2<br>
 
 ## Alunos
