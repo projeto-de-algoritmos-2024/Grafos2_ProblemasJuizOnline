@@ -10,18 +10,20 @@
 | 22/1022050  |  Larissa de Jesus Vieira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto faz parte da disciplina de Projeto de Algoritmos, ministrada pelo Professor Maurício Serrano.<br>Para a segunda entrega, cujo o tema era Grafos 2, resolvemos 3 exercícios de dificuldade média e alta de juízes online, com foco no Leetcode.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++<br>
+Todos os códigos podem ser rodados com o compilador padrão de C++ dentro do terminal;
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Ao executar os códigos disponíveis, é possível checar seu funcionamento por meio dos casos de teste disponíveis nos prints de cada questão resolvida. Também é possível testar o código no próprio site do juiz online e ver se é aceito.
+Links:
+[Problema 1584](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 
 ## Vídeo da apresentação 
 --
